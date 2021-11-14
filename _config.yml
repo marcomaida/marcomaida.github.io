@@ -84,10 +84,10 @@ author:
   avatar           : "profile.jpeg"
   bio              : "PhD student at MPI SWS."
   location         : "Kaiserslautern, Germany"
-  employer         :
+  employer         : "Max Planck Institute SWS"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "mmaida [at] mpi-sws.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : marcomaida94
   orcid            : 
   pinterest        :
   soundcloud       :
