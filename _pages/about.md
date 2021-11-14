@@ -14,13 +14,11 @@ I am a computer scientist currently pursuing a Ph.D. at [Max Planck Institute fo
 
 I work in the field of **real-time systems**, under the [TOROS](https://toros.mpi-sws.org/) grant. 
 
-The long-term goal of the TOROS project is to develop a **real-time operating system** that _by design_ ensures that the temporal behavior of its user-level applications can be analyzed.
+The long-term goal of the TOROS project is to develop a **real-time operating system** that _by design_ ensures that the temporal behavior of its user-level applications can be analyzed. To this end, my team and I work both on the theoretical and applied side, solving smaller, well-defined problems to build up towards our vision.
 
 I currently work on the **intersection** between **real-time schedulability theory** and **formal verification**. I am a core maintainer of [Prosa](http://prosa.mpi-sws.org/), a machine-checked library written in Coq regarding real-time schedulability analysis. In my first research paper, which is currently under peer-review, I designed a **timing analysis tool** that generates formally-verified proofs of correctness of its results. The **synthesized proofs** are based on Prosa.
 
-On another front, I am working on a tool that analyzes the workload on a **Linux** system to yield back **temporal data at runtime**. The data can be used for diagnostics and automatic tuning of the system. 
-
-The vision of TOROS is to progressively **bring the theory and practical worlds closer** to each other, in order to make temporally sounds OS designs an economically viable choice. 
+On the applied side, I am working on a tool that analyzes the workload on a **Linux** system to yield back **temporal data at runtime**. The data can be used for diagnostics and automatic tuning of the system. 
 
 # Trivia
 
