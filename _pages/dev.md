@@ -62,7 +62,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc">
         Key Launcher, Productivity Tool <br>
         WPF, XML, C# <br>
-        <span class="small_text">Only Programmer • Design • Feature Ideation</span>
+        <span class="small_text">All the Code • Design • Features Ideation</span>
         <br>
         <a target="_blank" href="https://34bigthings.com/portfolio/thyme-a-new-powerful-keylauncher/">
         <img src="/images/link_logo.png" class="inline-text"></a>
@@ -205,7 +205,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Game Framework, Progression Automation, Persistence, Ads, Analytics <br>
         Unity 3D, C#, ShaderLab <br>
-        <span class="small_text">Only Programmer</span>
+        <span class="small_text">All the Code</span>
         <br>
         <a target="_blank" href="https://github.com/34OpenThings/fmcframework">
         <img src="/images/github_logo.png" class="inline-text"></a>
@@ -220,7 +220,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Bulk Operations, Version Control Automation, Automatic Deployment of FMC Games <br>
         Python, Bash <br>
-        <span class="small_text">Ideation • Only Programmer</span>
+        <span class="small_text">Ideation • All the Code</span>
         <br>
         <a target="_blank" href="https://github.com/34OpenThings/fmctoolkit">
         <img src="/images/github_logo.png" class="inline-text"></a>
@@ -235,7 +235,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         From Low-Level LED Control to Gameplay-Related Visual Effects <br>
         Unreal Engine 4, C++ <br>
-        <span class="small_text">Only Programmer</span>
+        <span class="small_text">All the Code</span>
         <br>
         <a target="_blank" href="https://www.youtube.com/watch?v=AihLBrJBufk&ab_channel=34BigThings">
         <img src="/images/youtube_logo.png" class="inline-text"></a>
