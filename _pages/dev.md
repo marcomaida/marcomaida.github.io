@@ -36,6 +36,12 @@ permalink: /dev/
   margin-left: 10pt;
   }
 
+.small_text { 
+    font-size: 11pt; 
+    font-style: italic;
+    text-align: left;
+ }
+
 .inline-text {
   max-width:20px;
   max-height:20px;
@@ -48,6 +54,34 @@ I have worked in several project in the areas of __industrial optimization softw
 
 This list only contains projects on which I worked **professionally** and to which I gave a **meaningful contribution**.
 
+## Software development
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/thyme.png' class='clip-circle'> </div>
+    <div class="gheader">Thyme</div>
+    <div class="gdesc">
+        Key Launcher, Productivity Tool <br>
+        WPF, XML, C# <br>
+        <span class="small_text">Only Programmer • Design • Feature Ideation</span>
+        <br>
+        <a target="_blank" href="https://34bigthings.com/portfolio/thyme-a-new-powerful-keylauncher/">
+        <img src="/images/link_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/perfect_suite.png' class='clip-circle'> </div>
+    <div class="gheader"> Perfect Suite </div>
+    <div class="gdesc"> 
+        Industrial software, Management Software <br>
+        C/CLI, C#, SQL <br>
+        <span class="small_text">Developer • Presentation and Selling • Teaching</span>
+        <br>
+        <a target="_blank" href="https://perfectcut.glass/">
+        <img src="/images/link_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
 ## Videogames 
 <!-- 
     Redout
@@ -58,7 +92,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         AG Racing Game <br> 
         Unreal Engine 4, C++ <br>
-        Profiling • Optimization • Blueprint Native Code Generation • Chroma Tools
+        <span class="small_text">Profiling • Optimization • Blueprint Native Code Generation • Chroma Tools</span>
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/517710">
         <img src="/images/steam_logo.png" class="inline-text"></a>
@@ -80,7 +114,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Online Multiplayer First-Person Shooter <br> 
         Unreal Engine 4, C++ <br>
-        Gameplay programming • Online programming • AI Programming • UI 
+        <span class="small_text">Gameplay programming • Online programming • AI Programming • UI</span>
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/555000">
         <img src="/images/steam_logo.png" class="inline-text"></a>
@@ -96,7 +130,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Space Shooter <br> 
         Unreal Engine 4, C++ <br>
-        Gameplay Programming (Pre-Alpha) • AI Programming (Pre-Alpha)
+        <span class="small_text">Gameplay Programming (Pre-Alpha) • AI Programming (Pre-Alpha)</span>
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/886060">
         <img src="/images/steam_logo.png" class="inline-text"></a>
@@ -120,7 +154,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Action / Roguelike / Tower Defense <br> 
         Unreal Engine 4, C++ <br>
-        Gameplay Programming • UI Programming 
+        <span class="small_text">Gameplay Programming • UI Programming</span> 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/859440">
         <img src="/images/steam_logo.png" class="inline-text"></a>
@@ -138,7 +172,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Golf, with Explosives <br> 
         Unreal Engine 4, C++ <br>
-        UI programming 
+        <span class="small_text">UI programming</span> 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/772480">
         <img src="/images/steam_logo.png" class="inline-text"></a>
@@ -156,7 +190,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Turn-Based Strategy <br> 
         Unity 3D, C# <br>
-        Concept and Prototype • Main Programmer (up to Alpha version) 
+        <span class="small_text">Concept and Prototype • Main Programmer (up to Alpha version)</span> 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/987040">
         <img src="/images/steam_logo.png" class="inline-text"></a>
@@ -171,7 +205,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         Game Framework, Progression Automation, Persistence, Ads, Analytics <br>
         Unity 3D, C#, ShaderLab <br>
-        Only Programmer
+        <span class="small_text">Only Programmer</span>
         <br>
         <a target="_blank" href="https://github.com/34OpenThings/fmcframework">
         <img src="/images/github_logo.png" class="inline-text"></a>
@@ -184,9 +218,9 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gimage"> <img src='/images/fmc_toolkit.png' class='clip-circle'> </div>
     <div class="gheader"> Fast Mobile Cycle (FMC) Toolkit </div>
     <div class="gdesc"> 
-        Bulk Operations, Version Control Automation, Automatic Deployment, Overview of the FMC Games <br>
+        Bulk Operations, Version Control Automation, Automatic Deployment of FMC Games <br>
         Python, Bash <br>
-        Ideation • Only Programmer
+        <span class="small_text">Ideation • Only Programmer</span>
         <br>
         <a target="_blank" href="https://github.com/34OpenThings/fmctoolkit">
         <img src="/images/github_logo.png" class="inline-text"></a>
@@ -201,7 +235,7 @@ This list only contains projects on which I worked **professionally** and to whi
     <div class="gdesc"> 
         From Low-Level LED Control to Gameplay-Related Visual Effects <br>
         Unreal Engine 4, C++ <br>
-        Only Programmer
+        <span class="small_text">Only Programmer</span>
         <br>
         <a target="_blank" href="https://www.youtube.com/watch?v=AihLBrJBufk&ab_channel=34BigThings">
         <img src="/images/youtube_logo.png" class="inline-text"></a>
