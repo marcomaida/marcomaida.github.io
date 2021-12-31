@@ -12,13 +12,13 @@ permalink: /dev/
     grid-area: image; 
 }
 .gheader { grid-area: header;
-    font-size: 20px; 
+    font-size: 14pt; 
     text-align: left;
  }
  
 .gdesc { grid-area: desc;   
-    margin-left: 7px;  
-    font-size: 16px; 
+    margin-left: 7pt;  
+    font-size: 12pt; 
     text-align: left;
     vertical-align: center;
     height: 100%;
@@ -43,8 +43,8 @@ permalink: /dev/
  }
 
 .inline-text {
-  max-width:20px;
-  max-height:20px;
+  max-width:15pt;
+  max-height:15pt;
 }
 
 </style>
