@@ -12,7 +12,7 @@ permalink: /dev/
     grid-area: image; 
 }
 .gheader { grid-area: header;
-    font-size: 25px; 
+    font-size: 20px; 
     text-align: left;
  }
  
@@ -33,6 +33,7 @@ permalink: /dev/
   grid-template-rows: auto auto auto;
   background-color: #ffffff;
   margin-top: 10pt;
+  margin-left: 10pt;
   }
 
 .inline-text {
@@ -42,7 +43,12 @@ permalink: /dev/
 
 </style>
 
-# Past Projects in Game Development 
+# Past Projects 
+I have worked in several project in the areas of __industrial optimization software__, __management software__, __productivity tools__ and __videogame development__.
+
+This list only contains projects on which I worked **professionally** and to which I gave a **meaningful contribution**.
+
+## Videogames 
 <!-- 
     Redout
 -->
@@ -51,7 +57,7 @@ permalink: /dev/
     <div class="gheader"> Redout </div>
     <div class="gdesc"> 
         AG Racing Game <br> 
-        Unreal Engine 4 <br>
+        Unreal Engine 4, C++ <br>
         Profiling • Optimization • Blueprint Native Code Generation • Chroma Tools
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/517710">
@@ -73,7 +79,7 @@ permalink: /dev/
     <div class="gheader"> Goat of Duty </div>
     <div class="gdesc"> 
         Online Multiplayer First-Person Shooter <br> 
-        Unreal Engine 4 <br>
+        Unreal Engine 4, C++ <br>
         Gameplay programming • Online programming • AI Programming • UI 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/555000">
@@ -89,7 +95,7 @@ permalink: /dev/
     <div class="gheader"> Redout: Space Assault </div>
     <div class="gdesc"> 
         Space Shooter <br> 
-        Unreal Engine 4 <br>
+        Unreal Engine 4, C++ <br>
         Gameplay Programming (Pre-Alpha) • AI Programming (Pre-Alpha)
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/886060">
@@ -113,7 +119,7 @@ permalink: /dev/
     <div class="gheader"> Mars or Die! </div>
     <div class="gdesc"> 
         Action / Roguelike / Tower Defense <br> 
-        Unreal Engine 4 <br>
+        Unreal Engine 4, C++ <br>
         Gameplay Programming • UI Programming 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/859440">
@@ -131,7 +137,7 @@ permalink: /dev/
     <div class="gheader"> Super Inefficient Golf </div>
     <div class="gdesc"> 
         Golf, with Explosives <br> 
-        Unreal Engine 4 <br>
+        Unreal Engine 4, C++ <br>
         UI programming 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/772480">
@@ -149,10 +155,57 @@ permalink: /dev/
     <div class="gheader"> Goblin Squad - Total Division </div>
     <div class="gdesc"> 
         Turn-Based Strategy <br> 
-        Unity 3D <br>
+        Unity 3D, C# <br>
         Concept and Prototype • Main Programmer (up to Alpha version) 
         <br>
         <a target="_blank" href="https://store.steampowered.com/app/987040">
         <img src="/images/steam_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+## Game Dev Frameworks and Tools
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/fmc_framework.png' class='clip-circle'> </div>
+    <div class="gheader"> Fast Mobile Cycle (FMC) Framework </div>
+    <div class="gdesc"> 
+        Game Framework, Progression Automation, Persistence, Ads, Analytics <br>
+        Unity 3D, C#, ShaderLab <br>
+        Only Programmer
+        <br>
+        <a target="_blank" href="https://github.com/34OpenThings/fmcframework">
+        <img src="/images/github_logo.png" class="inline-text"></a>
+        <a target="_blank" href="https://docs.google.com/presentation/d/130OR6Hrqw2PXjc0evTveeMOMYDUBm8YGra0PlfyEpeM/edit?usp=sharing">
+        <img src="/images/presentation_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/fmc_toolkit.png' class='clip-circle'> </div>
+    <div class="gheader"> Fast Mobile Cycle (FMC) Toolkit </div>
+    <div class="gdesc"> 
+        Bulk Operations, Version Control Automation, Automatic Deployment, Overview of the FMC Games <br>
+        Python, Bash <br>
+        Ideation • Only Programmer
+        <br>
+        <a target="_blank" href="https://github.com/34OpenThings/fmctoolkit">
+        <img src="/images/github_logo.png" class="inline-text"></a>
+        <a target="_blank" href="https://docs.google.com/presentation/d/130OR6Hrqw2PXjc0evTveeMOMYDUBm8YGra0PlfyEpeM/edit?usp=sharing">
+        <img src="/images/presentation_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/chroma.png' class='clip-circle'> </div>
+    <div class="gheader"> Razer Chroma Framework for Unreal Engine 4 </div>
+    <div class="gdesc"> 
+        From Low-Level LED Control to Gameplay-Related Visual Effects <br>
+        Unreal Engine 4, C++ <br>
+        Only Programmer
+        <br>
+        <a target="_blank" href="https://www.youtube.com/watch?v=AihLBrJBufk&ab_channel=34BigThings">
+        <img src="/images/youtube_logo.png" class="inline-text"></a>
+        <a target="_blank" href="https://www.razer.com/chroma">
+        <img src="/images/link_logo.png" class="inline-text"></a>
     </div>
 </div>
