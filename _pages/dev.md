@@ -50,9 +50,8 @@ permalink: /dev/
 </style>
 
 # Past Projects 
-I have worked in several project in the areas of __industrial optimization software__, __management software__, __productivity tools__ and __videogame development__.
-
-This list only contains projects on which I worked **professionally** and to which I gave a **meaningful contribution**.
+I have worked on several projects in **industrial optimization software**, **management software**, **productivity tools**, and **videogame development**.
+This list only contains projects I worked on **professionally** and with a **meaningful contribution**.
 
 ## Software development
 
