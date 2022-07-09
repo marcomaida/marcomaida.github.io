@@ -50,7 +50,7 @@ permalink: /personal/
 </style>
 
 # Personal Projects 
-I now and then start a personal project of things I find interesting.
+I now and then start a personal project on pretty anything I find interesting.
 
 ## Software 
 
