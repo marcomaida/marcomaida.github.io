@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer scientist currently interning at the New York CTO office of Bloomberg LP. <br>
+I am a **computer scientist** currently interning at the New York CTO office of Bloomberg LP.
+
+I have a **Master's degree** and over **nine years of professional experience**. <br>
+My background is a mixed bag of **industrial software development**, **videogames development**, and **research**.
+
 **On this website**, you can find pretty much everything I have worked on in my career.
 
 # Trivia
