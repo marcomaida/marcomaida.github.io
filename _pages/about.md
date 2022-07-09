@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a computer scientist currently interning at the New York CTO office of Bloomberg LP. <br>
-On this website, you can find pretty much everything I have worked on in my career.
+**On this website**, you can find pretty much everything I have worked on in my career.
 
 # Trivia
 
