@@ -52,6 +52,8 @@ permalink: /personal/
 # Personal Projects 
 I now and then start a personal project of things I find interesting.
 
+## Software 
+
 <div class="grid-container">
     <div class="gimage"> <img src='/images/coqprofiler.png' class='clip-circle'> </div>
     <div class="gheader">COQ Profiler</div>
@@ -88,5 +90,19 @@ I now and then start a personal project of things I find interesting.
         <br>
         <a target="_blank" href="https://github.com/marcomaida/marcomaida.github.io">
         <img src="/images/github_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+## Other
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/maxplanckforest.jpeg' class='clip-circle'> </div>
+    <div class="gheader">Max Planck Forest</div>
+    <div class="gdesc">
+        I started this Treedom forest as a gift for the staff members. <br>
+        More than fifty people donated. <br>
+        I personally handled the communication with  <a target="_blank" href="https://treedom.net/"> Treedom. </a> <br>
+        <a target="_blank" href="https://www.treedom.net/en/user/marco-maida/event/max-planck-forest">
+        <img src="/images/tree.png" class="inline-text"></a>
     </div>
 </div>
