@@ -18,6 +18,9 @@ main:
   - title: "Software Engineering"
     url: /dev/  
 
+  - title: "Research"
+    url: /research/  
+
   - title: "Resume"
     url: /resume/
 
