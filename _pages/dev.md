@@ -49,11 +49,11 @@ permalink: /dev/
 
 </style>
 
-# Past Projects 
+# Software Engineering 
 I have worked on several projects in **industrial optimization software**, **management software**, **productivity tools**, and **videogame development**.
 This list only contains projects I worked on **professionally** and with a **meaningful contribution**.
 
-## Software development
+## Commercial Software and Tools 
 
 <div class="grid-container">
     <div class="gimage"> <img src='/images/thyme.png' class='clip-circle'> </div>
@@ -70,11 +70,11 @@ This list only contains projects I worked on **professionally** and with a **mea
 
 <div class="grid-container">
     <div class="gimage"> <img src='/images/perfect_suite.png' class='clip-circle'> </div>
-    <div class="gheader"> Perfect Suite </div>
+    <div class="gheader"> Perfect Cut, Gea, and Gepro </div>
     <div class="gdesc"> 
         Industrial software, Management Software <br>
         C/CLI, C#, SQL <br>
-        <span class="small_text">Developer • Presentation and Selling • Teaching</span>
+        <span class="small_text">Developer • Management • Customer Interaction </span>
         <br>
         <a target="_blank" href="https://perfectcut.glass/">
         <img src="/images/link_logo.png" class="inline-text"></a>

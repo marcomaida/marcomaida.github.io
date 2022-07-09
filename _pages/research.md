@@ -67,7 +67,7 @@ permalink: /research/
 
 </style>
 
-# Max Planck Institute
+# Research
 I have been working at [Max Planck Institute](https://www.mpi-sws.org) September 2019 to October 2022, working in the field of **real-time systems** under the [TOROS](https://toros.mpi-sws.org/) grant.
 
 <!-- The long-term goal of TOROS is to develop a **real-time operating system** that _by design_ ensures that the temporal behavior of its user-level applications can be analyzed.
@@ -75,7 +75,7 @@ I worked both on the theoretical and applied side, solving smaller, well-defined
 I worked on the **intersection** between **real-time schedulability theory** and **formal verification**, both on the theoretical and applied side.
 This list only contains projects and publications I worked on with a **meaningful contribution**.
 
-# Publications
+## Publications
 
 <div class="grid-container-pub">
     <!-- <div class="gimage"> <img src='/images/poet.png' class='clip-circle'> </div> -->

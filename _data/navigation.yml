@@ -21,6 +21,9 @@ main:
   - title: "Research"
     url: /research/  
 
+  - title: "Personal Projects"
+    url: /personal/  
+
   - title: "Resume"
     url: /resume/
 
