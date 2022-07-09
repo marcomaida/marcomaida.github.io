@@ -100,7 +100,7 @@ I now and then start a personal project on pretty anything I find interesting.
     <div class="gheader">Max Planck Forest</div>
     <div class="gdesc">
         I started this Treedom forest as a gift for the staff members. <br>
-        More than fifty people donated. <br>
+        More than fifty researchers donated. <br>
         I personally handled the communication with  <a target="_blank" href="https://treedom.net/"> Treedom. </a> <br>
         <a target="_blank" href="https://www.treedom.net/en/user/marco-maida/event/max-planck-forest">
         <img src="/images/tree.png" class="inline-text"></a>
