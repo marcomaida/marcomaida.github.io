@@ -1,3 +1,5 @@
+.PHONY: treecode update_cv commit_cv
+
 serve:
 	bundle exec jekyll serve 8080
 
@@ -8,3 +10,11 @@ commit_cv:
 	git add files/resume.pdf
 	git commit -m "Updated resume"
 	git push
+
+treecode:
+# Check existance, then copy
+	cd ../treecode/
+	rm -rf treecode
+	mkdir treecode
+	cp -r ../treecode/treecode .
+	rm treecode/pixi.mini.js
