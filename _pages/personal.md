@@ -58,7 +58,7 @@ I now and then start a personal project on pretty anything I find interesting.
     <div class="gimage"> <img src='/images/treecode.png' class='clip-circle'> </div>
     <div class="gheader">Treecode</div>
     <div class="gdesc">
-        Use a tree to encode a message. An alternative to QR Codes.  <br>
+        Encode a message with a tree. An alternative to QR Codes.  <br>
         Javascript, HTML <br>
         <span class="small_text">Ideation • Code • Design</span>
         <br>
