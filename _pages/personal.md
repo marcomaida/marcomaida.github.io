@@ -55,12 +55,25 @@ I now and then start a personal project on pretty anything I find interesting.
 ## Software 
 
 <div class="grid-container">
+    <div class="gimage"> <img src='/images/treecode.png' class='clip-circle'> </div>
+    <div class="gheader">Treecode</div>
+    <div class="gdesc">
+        Use a tree to encode a message. An alternative to QR Codes.  <br>
+        Javascript, HTML <br>
+        <span class="small_text">Ideation • Code • Design</span>
+        <br>
+        <a target="_blank" href="https://maida.me/treecode">
+        <img src="/images/treecode.png" class="inline-text"></a>
+    </div>
+</div>
+
+<div class="grid-container">
     <div class="gimage"> <img src='/images/coqprofiler.png' class='clip-circle'> </div>
     <div class="gheader">COQ Profiler</div>
     <div class="gdesc">
         Visualize how much time COQ takes on each proof step. <br>
         Python <br>
-        <span class="small_text">All the Code • Design</span>
+        <span class="small_text">Code • Design</span>
         <br>
         <a target="_blank" href="https://github.com/marcomaida/coqprofiler">
         <img src="/images/github_logo.png" class="inline-text"></a>
@@ -73,7 +86,7 @@ I now and then start a personal project on pretty anything I find interesting.
     <div class="gdesc">
         Visualize your life in weeks. <br>
         Python <br>
-        <span class="small_text">All the Code • Design</span>
+        <span class="small_text">Code • Design</span>
         <br>
         <a target="_blank" href="https://github.com/marcomaida/life-calendar">
         <img src="/images/github_logo.png" class="inline-text"></a>
