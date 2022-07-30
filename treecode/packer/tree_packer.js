@@ -1,6 +1,6 @@
 import { clearDebug, drawDebugArrow } from "../drawing/debug.js"
 import { springNeighborsDistance, springNeighborsAngle, springRandom, springNeighborsAngleSpine, springNeighborsSeed } from "./springs.js"
-import { isBranchAreaIntersectingTree } from "./tree_collision.js"
+import { checkTreeAreaCollision } from "./tree_collision.js"
 
 export class Packer {
     constructor(tree) {
@@ -47,6 +47,8 @@ export class Packer {
         const father_multiplier = 3
         dir.add(springNeighborsDistance(node, father_multiplier))
         dir.add(springNeighborsAngleSpine(node))
+        dir.add(node.pushForce)
+        node.pushForce.multiplyScalar(0)
         //dir.add(springNeighborsAngle(node))
         //dir.add(springNeighborsSeed(node).multiplyScalar(speed/3))
 
@@ -55,15 +57,24 @@ export class Packer {
         dir.multiplyScalar(speed)
 
         var done = false
-        var tries = 3
+        var tries = 4
         var random_speed = dir.length()
         while (! done) {
             const oldPos = node.position.clone()
             const newPos = oldPos.clone().add(dir)
             node.setPosition(newPos)
             
-            const acceptable = this.isAcceptable(node)
-            if (! acceptable) {
+            const tooShort = this.isTooShort(node)
+            const orderViolated = this.hasViolatedOrder(node)
+            var colliding = false
+            if(!tooShort && !orderViolated) {
+                const collision = checkTreeAreaCollision(node)
+                if (collision !== null) {
+                    colliding = true
+                    collision.pushForce.add(dir)
+                }
+            }
+            if (tooShort || colliding || orderViolated) {
                 node.setPosition(oldPos)
 
                 dir.add(springRandom(node).multiplyScalar(random_speed))
@@ -84,7 +95,7 @@ export class Packer {
         }
     }
 
-    isAcceptable(node) {
+    isTooShort(node) {
         var tooShort = false
         if (node.father !== null)
             tooShort = node.position.distanceTo(node.father.position) < node.tree.specs.min_branch_length
@@ -96,6 +107,19 @@ export class Packer {
             tooShort = node.position.distanceTo(c.position) < node.tree.specs.min_branch_length
         }
         
-        return !tooShort && !isBranchAreaIntersectingTree(node)
+        return tooShort
+    }
+
+    hasViolatedOrder(node) {
+        if (node.father !== null) {
+            const cs = node.father.children
+
+            for (var i = 1; i < cs.length; i++) {
+                if (!cs[i-1].angleFromFather > cs[i].angleFromFather)
+                    return true
+            }
+        }
+
+        return false
     }
 }
