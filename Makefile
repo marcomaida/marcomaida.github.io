@@ -18,3 +18,9 @@ treecode:
 	mkdir treecode
 	cp -r ../treecode/treecode .
 	rm treecode/pixi.mini.js
+
+treecode_commit:
+# Check existance, then copy
+	git add .
+	git commit -m "Update Treecode"
+	git push
