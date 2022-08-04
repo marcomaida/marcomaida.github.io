@@ -3,10 +3,10 @@
 serve:
 	bundle exec jekyll serve 8080
 
-update_cv:
+resume:
 	wget https://github.com/marcomaida/resume/raw/master/main.pdf -O files/resume.pdf
 
-commit_cv:
+resume_push:
 	git add files/resume.pdf
 	git commit -m "Updated resume"
 	git push
@@ -19,7 +19,7 @@ treecode:
 	cp -r ../treecode/treecode .
 	rm treecode/pixi.mini.js
 
-treecode_commit:
+treecode_push:
 # Check existance, then copy
 	git add .
 	git commit -m "Update Treecode"
