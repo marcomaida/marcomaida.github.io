@@ -64,6 +64,8 @@ I now and then start a personal project on pretty anything I find interesting.
         <br>
         <a target="_blank" href="https://maida.me/treecode">
         <img src="/images/treecode.png" class="inline-text"></a>
+        <a target="_blank" href="https://github.com/marcomaida/treecode">
+        <img src="/images/github_logo.png" class="inline-text"></a>
     </div>
 </div>
 
