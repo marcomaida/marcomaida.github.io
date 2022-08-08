@@ -93,6 +93,18 @@ Explainable Evidence of Timeliness </a>
 <div class="grid-container-pub">
     <!-- <div class="gimage"> <img src='/images/poet.png' class='clip-circle'> </div> -->
     <div class="gheaderpub"> 
+    <a target="_blank" href="http://2022.rtss.org/">
+    From Intuition to Coq: A Case Study in Verified Response-Time Analysis of FIFO Scheduling </a>
+</div>
+    <div class="gdesc"> 
+        To appear in RTSS2022 <br>
+        <span class="small_text">K. Bedarkar, S. Bozhko, M.Maida, M. Vardishvili, and B. Brandenburg</span>
+    </div>
+</div>
+
+<div class="grid-container-pub">
+    <!-- <div class="gimage"> <img src='/images/poet.png' class='clip-circle'> </div> -->
+    <div class="gheaderpub"> 
     <a target="_blank" href="https://ieeexplore.ieee.org/document/9804640">
     Automatic Response-Time Analysis for Arbitrary Real-Time Linux Workloads </a> </div>
     <div class="gdesc"> 
