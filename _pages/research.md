@@ -86,7 +86,7 @@ Explainable Evidence of Timeliness </a>
 </div>
     <div class="gdesc"> 
         Outstanding Paper Award at ECRTS22 <br>
-        <span class="small_text">M. Maida, S. Bozhko, and B. Brandenburg</span>
+        <span class="small_text"><u>M. Maida</u>, S. Bozhko, and B. Brandenburg</span>
     </div>
 </div>
 
@@ -98,7 +98,7 @@ Explainable Evidence of Timeliness </a>
 </div>
     <div class="gdesc"> 
         To appear in RTSS2022 <br>
-        <span class="small_text">K. Bedarkar, S. Bozhko, M.Maida, M. Vardishvili, and B. Brandenburg</span>
+        <span class="small_text">K. Bedarkar, S. Bozhko, <u>M. Maida</u>, M. Vardishvili, and B. Brandenburg</span>
     </div>
 </div>
 
@@ -109,7 +109,7 @@ Explainable Evidence of Timeliness </a>
     Automatic Response-Time Analysis for Arbitrary Real-Time Linux Workloads </a> </div>
     <div class="gdesc"> 
         RTAS2022, WIP Track <br>
-        <span class="small_text">M. Perronet, M. Maida; C. Courtaud, and B. Brandenburg</span>
+        <span class="small_text">M. Perronet, <u>M. Maida</u>, C. Courtaud, and B. Brandenburg</span>
         <br>
     </div>
 </div>
