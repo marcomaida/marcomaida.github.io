@@ -1,4 +1,4 @@
-.PHONY: treecode update_cv commit_cv
+.PHONY: resume resume_push treecode treecode_push 
 
 serve:
 	bundle exec jekyll serve 8080
