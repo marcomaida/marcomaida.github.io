@@ -93,11 +93,11 @@ Explainable Evidence of Timeliness </a>
 <div class="grid-container-pub">
     <!-- <div class="gimage"> <img src='/images/poet.png' class='clip-circle'> </div> -->
     <div class="gheaderpub"> 
-    <a target="_blank" href="http://2022.rtss.org/">
+    <a target="_blank" href="https://people.mpi-sws.org/~bbb/papers/pdf/rtss22.pdf">
     From Intuition to Coq: A Case Study in Verified Response-Time Analysis of FIFO Scheduling </a>
 </div>
     <div class="gdesc"> 
-        To appear in RTSS2022 <br>
+        RTSS2022 <br>
         <span class="small_text">K. Bedarkar, S. Bozhko, <u>M. Maida</u>, M. Vardishvili, and B. Brandenburg</span>
     </div>
 </div>
