@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **computer scientist** currently interning at the New York CTO office of Bloomberg LP.
+I am a **computer scientist** currently working at [Wayve](http://wayve.ai/), an autonomous driving technology company based in London.
 
-I have a **Master's degree** and over **nine years of professional experience**. <br>
+I have a **Master's degree** and over **ten years of professional experience**. <br>
 My background is a mixed bag of **industrial software development**, **videogames development**, and **research**.
 
 **On this website**, you can find pretty much everything I have worked on in my career.
