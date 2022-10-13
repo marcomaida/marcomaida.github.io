@@ -85,7 +85,7 @@ This list only contains projects and publications I worked on with a **meaningfu
 Explainable Evidence of Timeliness </a>
 </div>
     <div class="gdesc"> 
-        Outstanding Paper Award at ECRTS22 <br>
+        Outstanding Paper Award at ECRTS 2022 <br>
         <span class="small_text"><u>M. Maida</u>, S. Bozhko, and B. Brandenburg</span>
     </div>
 </div>
@@ -97,7 +97,7 @@ Explainable Evidence of Timeliness </a>
     From Intuition to Coq: A Case Study in Verified Response-Time Analysis of FIFO Scheduling </a>
 </div>
     <div class="gdesc"> 
-        RTSS2022 <br>
+        RTSS 2022 <br>
         <span class="small_text">K. Bedarkar, S. Bozhko, <u>M. Maida</u>, M. Vardishvili, and B. Brandenburg</span>
     </div>
 </div>
@@ -108,7 +108,7 @@ Explainable Evidence of Timeliness </a>
     <a target="_blank" href="https://ieeexplore.ieee.org/document/9804640">
     Automatic Response-Time Analysis for Arbitrary Real-Time Linux Workloads </a> </div>
     <div class="gdesc"> 
-        RTAS2022, WIP Track <br>
+        RTAS 2022, WIP Track <br>
         <span class="small_text">M. Perronet, <u>M. Maida</u>, C. Courtaud, and B. Brandenburg</span>
         <br>
     </div>
