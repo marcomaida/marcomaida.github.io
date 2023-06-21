@@ -12,6 +12,7 @@ resume_push:
 	git push
 
 treecode:
+# Requires treecode folder at the same level.
 # Check existance, then copy
 	cd ../treecode/
 	rm -rf treecode
