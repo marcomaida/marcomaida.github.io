@@ -9,8 +9,5 @@ main:
   - title: "Personal Projects"
     url: /personal/  
 
-  - title: "Treecode"
-    url: /treecode/  
-
   - title: "Resume"
     url: /resume/
