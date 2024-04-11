@@ -18,7 +18,6 @@ treecode:
 	rm -rf treecode
 	mkdir treecode
 	cp -r ../treecode/treecode .
-	rm treecode/pixi.mini.js
 	cp -r ../treecode/treecode/images/* images
 
 treecode_push:
