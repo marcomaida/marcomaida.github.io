@@ -96,7 +96,7 @@ I now and then start a personal project on pretty anything I find interesting.
 </div>
 
 <div class="grid-container">
-    <div class="gimage"> <img src='/images/profile.jpeg' class='clip-circle'> </div>
+    <div class="gimage"> <img src='/images/profile.png' class='clip-circle'> </div>
     <div class="gheader">This Website</div>
     <div class="gdesc">
         Forked from <a target="_blank" href="https://github.com/academicpages/academicpages.github.io"></a> Academic Pages. <br>
