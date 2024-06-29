@@ -11,9 +11,9 @@ redirect_from:
 I am a **computer scientist** currently working at [Wayve](http://wayve.ai/), an autonomous driving technology company based in London.
 
 I have a **Master's degree** and over **ten years of professional experience**. <br>
-My background is a mixed bag of **industrial software development**, **videogames development**, and **research**.
+My background is a mixed bag of **industrial software development**, **videogames development**, and **real-time systems research**.
 
-**On this website**, you can find pretty much everything I have worked on in my career.
+**On this website**, you can find the most important things I have worked on in my career.
 
 # Trivia
 
