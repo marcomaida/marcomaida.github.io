@@ -53,30 +53,19 @@ permalink: /dev/
 
 This list only contains projects I worked on **professionally** and with a **meaningful contribution**.
 
-## Commercial Software and Tools 
+## Robotics and AI 
 
 <div class="grid-container">
-    <div class="gimage"> <img src='/images/thyme.png' class='clip-circle'> </div>
-    <div class="gheader">Thyme</div>
+    <div class="gimage"> <img src='/images/wayve.png' class='clip-circle'> </div>
+    <div class="gheader">Wayve's Autonomous Cars</div>
     <div class="gdesc">
-        Key Launcher, Productivity Tool <br>
-        WPF, XML, C# <br>
-        <span class="small_text">Code • Design • Features Ideation</span>
+        On-board Software Stack <br>
+        C++, Rust, Python <br>
+        <span class="small_text">Software Engineer</span>
         <br>
-        <a target="_blank" href="https://34bigthings.com/portfolio/thyme-a-new-powerful-keylauncher/">
-        <img src="/images/link_logo.png" class="inline-text"></a>
-    </div>
-</div>
-
-<div class="grid-container">
-    <div class="gimage"> <img src='/images/perfect_suite.png' class='clip-circle'> </div>
-    <div class="gheader"> Perfect Cut, Gea, and Gepro </div>
-    <div class="gdesc"> 
-        Industrial software, Management Software <br>
-        C/CLI, C#, SQL <br>
-        <span class="small_text">Developer • Management • Customer Interaction </span>
-        <br>
-        <a target="_blank" href="https://perfectcut.glass/">
+         <a target="_blank" href="https://www.youtube.com/watch?v=ruKJCiAOmfg">
+        <img src="/images/youtube_logo.png" class="inline-text"></a>
+        <a target="_blank" href="https://wayve.ai/">
         <img src="/images/link_logo.png" class="inline-text"></a>
     </div>
 </div>
@@ -239,6 +228,34 @@ This list only contains projects I worked on **professionally** and with a **mea
         <a target="_blank" href="https://www.youtube.com/watch?v=AihLBrJBufk&ab_channel=34BigThings">
         <img src="/images/youtube_logo.png" class="inline-text"></a>
         <a target="_blank" href="https://www.razer.com/chroma">
+        <img src="/images/link_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+## Commercial Software and Tools 
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/thyme.png' class='clip-circle'> </div>
+    <div class="gheader">Thyme</div>
+    <div class="gdesc">
+        Key Launcher, Productivity Tool <br>
+        WPF, XML, C# <br>
+        <span class="small_text">Code • Design • Features Ideation</span>
+        <br>
+        <a target="_blank" href="https://34bigthings.com/portfolio/thyme-a-new-powerful-keylauncher/">
+        <img src="/images/link_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="gimage"> <img src='/images/perfect_suite.png' class='clip-circle'> </div>
+    <div class="gheader"> Perfect Cut, Gea, and Gepro </div>
+    <div class="gdesc"> 
+        Industrial software, Management Software <br>
+        C/CLI, C#, SQL <br>
+        <span class="small_text">Developer • Management • Customer Interaction </span>
+        <br>
+        <a target="_blank" href="https://perfectcut.glass/">
         <img src="/images/link_logo.png" class="inline-text"></a>
     </div>
 </div>
