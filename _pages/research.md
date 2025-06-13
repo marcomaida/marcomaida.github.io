@@ -78,6 +78,17 @@ This list only contains projects and publications I worked on with a **meaningfu
 ## Publications
 
 <div class="grid-container-pub">
+    <div class="gheaderpub"> 
+    <a target="_blank" href="https://arxiv.org/abs/2505.08666">
+    Claycode: Stylable and Deformable 2D Scannable Codes </a>
+</div>
+    <div class="gdesc"> 
+        SIGGRAPH 2025, Journal Paper at Transaction of Graphics, Selected for CAF trailer <br>
+        <span class="small_text"><u>M. Maida</u>, A. Crescini, M. Perronet, and E. Camuffo</span>
+    </div>
+</div>
+
+<div class="grid-container-pub">
     <!-- <div class="gimage"> <img src='/images/poet.png' class='clip-circle'> </div> -->
     <div class="gheaderpub"> 
     <a target="_blank" href="https://pure.mpg.de/rest/items/item_3391739_1/component/file_3391740/content">

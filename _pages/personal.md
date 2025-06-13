@@ -55,10 +55,25 @@ I now and then start a personal project on pretty much anything I find interesti
 ## Software 
 
 <div class="grid-container">
+    <div class="gimage"> <img src='/images/claycode.png' class='clip-circle'> </div>
+    <div class="gheader">Claycode</div>
+    <div class="gdesc">
+        A new kind of visual code that break free from the rigid grid of traditional formats like QR codes. They encode data as a tree structure, rendered as nested color regions within any shape — enabling full customizability, heavy deformation, and real-time scanning.	  <br>
+        Javascript, HTML, Kotlin <br>
+        <span class="small_text">Ideation • Code • Design</span>
+        <br>
+        <a target="_blank" href="https://claycode.io">
+        <img src="/images/claycode.png" class="inline-text"></a>
+        <a target="_blank" href="https://github.com/marcomaida/claycode">
+        <img src="/images/github_logo.png" class="inline-text"></a>
+    </div>
+</div>
+
+<div class="grid-container">
     <div class="gimage"> <img src='/images/treecode.png' class='clip-circle'> </div>
     <div class="gheader">Treecode</div>
     <div class="gdesc">
-        Encode a message with a tree. An alternative to QR Codes.  <br>
+        The precursor of Claycodes. Encode messages as a tree.  <br>
         Javascript, HTML <br>
         <span class="small_text">Ideation • Code • Design</span>
         <br>
